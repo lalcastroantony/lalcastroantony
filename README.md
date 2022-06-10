@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Lal Castro
 ## 👨‍💻 iOS Developer
-- MVC | MVVM | SOLID | UIKit | Swift
 - 📫 lal.castro@icloud.com
+- Swift | UIKit | MVC | MVVM | SOLID
+
 
 <!---
 lalcastroantony/lalcastroantony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
