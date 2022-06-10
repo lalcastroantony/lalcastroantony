@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Lal Castro
-- 👨‍💻 iOS Dev | MVC | MVVM | SOLID | UIKit | Swift
+# 👋 Hi, I’m Lal Castro
+## 👨‍💻 iOS Developer
+- MVC | MVVM | SOLID | UIKit | Swift
 - 📫 lal.castro@icloud.com
 
 <!---
