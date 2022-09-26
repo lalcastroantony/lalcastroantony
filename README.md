@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Lal Castro
-## 👨‍💻 iOS Developer
+## 👨‍💻 Senior Software Engineer
 - 📫 lal.castro@icloud.com
-- Swift | UIKit | MVC | MVVM | SOLID
+- iOS | Swift | UIKit | MVC | MVVM | SOLID | React Native | TypeScript | Aws Amplify | GraphQL
 
 
 <!---
