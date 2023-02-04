@@ -1,4 +1,9 @@
-Hi 👋 My name is Lal Castro ===========================  Senior Software Engineer ------------------------  * 🌍  I'm based in Chennai, India. * ✉️  You can contact me at [lal.castro@icloud.com](mailto:lal.castro@icloud.com) * 🧠  I'm learning NodeJS * 🤝  I'm open to collaborating on iOS Projects
+Hi 👋 My name is Lal Castro 
+===========================  Senior Software Engineer ------------------------ 
+* 🌍  I'm based in Chennai, India. 
+* * ✉️  You can contact me at [lal.castro@icloud.com](mailto:lal.castro@icloud.com) 
+* * 🧠  I'm learning NodeJS 
+* * 🤝  I'm open to collaborating on iOS Projects
 
 <a href="https://www.twitter.com/lalcastroantony" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/lalcastroantony?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 ### Skills  
