@@ -2,10 +2,10 @@
 ===========================
 Senior Software Engineer
 ---------------------------
-* 💁🏻‍♂️  Developer | Listener | Learner | Teacher | Cricketer 🏏
-* 🌍  I'm based in Chennai, India.
-* ✉️  You can contact me at [lal.castro@icloud.com](mailto:lal.castro@icloud.com) 
-* 🤝  I'm open to collaborating on projects which use the tech stacks I listed below.
+* 💁🏻‍♂️ Developer | Listener | Learner | Teacher | Cricketer 🏏
+* 🌍 Based in Chennai, India.
+* ✉️ You can contact me at [lal.castro@icloud.com](mailto:lal.castro@icloud.com) 
+* 🤝 Open to collaborating on projects which use the tech stacks I listed in this page.
 
 <a href="https://www.twitter.com/lalcastroantony" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/url?label=Follow%20Lal%20Castro&style=social&url=https%3A%2F%2Ftwitter.com%2Flalcastroantony" /></a>
 
