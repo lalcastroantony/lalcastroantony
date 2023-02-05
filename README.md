@@ -30,11 +30,27 @@ Senior Software Engineer
 
 ### Tools I use
 
-<p><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://icons.veryicon.com/48/System/Mac/Xcode.png" height="48" alt="Sketch" /></a></p>
+<p>
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=51974&format=svg&size=96&name=icons8-xcode.svg" height="36" alt="Xcode" /></a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=0OQR1FYCuA9f&format=svg&size=48&name=icons8-visual-studio-code-2019.svg" height="36" alt="VS Code" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=20906&format=svg&size=48&name=icons8-git.svg" height="36" alt="Git" /></a>
+<a href="https://desktop.github.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=bVGqATNwfhYq&format=svg&size=48&name=icons8-github.svg" height="36" alt="GitHub Desktop" /></a>
+<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/postman.svg?response-content-disposition=attachment%3Bfilename%3Dpostman.svg" height="36" alt="Postman" /></a>
+</p>
+
 
 ### Socials  
 
-<p align="left"> <a href="https://www.facebook.com/lal.castro.antony" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/lalcastroantony" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/lal.castro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lalcastro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lalcastroantony" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/LalCastro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p>
+<a href="https://www.github.com/lalcastroantony" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=4MhUS4CzoLbx&format=gif&name=icons8-github.gif" height="36" alt="Github" /></a>
+<a href="https://www.twitter.com/lalcastroantony" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=xWVjuc9hryql&format=gif&name=icons8-twitter.gif" height="36" alt="Twitter" /></a> 
+<a href="https://www.youtube.com/c/LalCastro" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=p4rU35mvmXMQ&format=gif&name=icons8-youtube-logo.gif" height="36" alt="Youtube" /></a>
+<a href="https://www.linkedin.com/in/lalcastro" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=TpMqKvVFD9pP&format=gif&name=icons8-linkedin-2.gif" height="36" alt="LinkedIn" /></a>
+<a href="http://www.instagram.com/lal.castro" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=ZRiAFreol5mE&format=gif&name=icons8-instagram.gif" height="36" alt="Instagram" /></a>
+<a href="https://www.facebook.com/lal.castro.antony" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=CtrV2SV33rD9&format=gif&name=icons8-facebook-circled.gif" height="36" alt="Facebook" /></a> 
+<a href="https://open.spotify.com/user/31l3kh7e4gpgj2f7uqvuj53xsxfq" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=JBDiZwh5LGP3&format=gif&name=icons8-spotify.gif" height="36" alt="Spotify" /></a> 
+</p>
+  
 
 <b>My GitHub Stats</b>
 
