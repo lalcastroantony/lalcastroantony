@@ -1,4 +1,4 @@
-👋 Hello Stalker!! My name is Lal Castro Antony
+Hello Stalker 👋,  My name is Lal Castro Antony
 ===========================
 Senior Software Engineer
 ---------------------------
@@ -10,9 +10,7 @@ Senior Software Engineer
 <a href="https://www.twitter.com/lalcastroantony" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/url?label=Follow%20Lal%20Castro&style=social&url=https%3A%2F%2Ftwitter.com%2Flalcastroantony" /></a>
 
 
-
-### Tech Stack  
-
+### Tech Stacks I work on  
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/swift.svg?response-content-disposition=attachment%3Bfilename%3Dswift.svg" height="36" alt="Swift" /> 
 <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=ZS86z3goveDT&format=gif&name=icons8-apple-logo.gif" height="36" alt="iOS" />  
@@ -30,7 +28,6 @@ Senior Software Engineer
 
 
 ### Tools I use
-
 <p>
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=51974&format=svg&size=96&name=icons8-xcode.svg" height="36" alt="Xcode" /></a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=0OQR1FYCuA9f&format=svg&size=48&name=icons8-visual-studio-code-2019.svg" height="36" alt="VS Code" /></a>
@@ -41,7 +38,6 @@ Senior Software Engineer
 
 
 ### Socials  
-
 <p>
 <a href="https://www.github.com/lalcastroantony" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=4MhUS4CzoLbx&format=gif&name=icons8-github.gif" height="36" alt="Github" /></a>
 <a href="https://www.twitter.com/lalcastroantony" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=xWVjuc9hryql&format=gif&name=icons8-twitter.gif" height="36" alt="Twitter" /></a> 
