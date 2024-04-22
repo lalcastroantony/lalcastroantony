@@ -21,10 +21,7 @@ Senior Software Engineer
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/aws-amplify.svg?response-content-disposition=attachment%3Bfilename%3Daws-amplify.svg" height="36" alt="Amplify" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/firebase.svg?response-content-disposition=attachment%3Bfilename%3Dfirebase.svg" height="36" alt="Firebase" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/graphql.svg?response-content-disposition=attachment%3Bfilename%3Dgraphql.svg" height="36" alt="GraphQL" /></a> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" height="36" alt="PostgreSQL" /></a> 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=WNoJgbzDr3i2&format=svg&size=40&name=icons8-express-js.svg" height="36" alt="Express" /></a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/react.svg?response-content-disposition=attachment%3Bfilename%3Dreact.svg" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/nodejs-icon.svg?response-content-disposition=attachment%3Bfilename%3Dnodejs-icon.svg" height="36" alt="NodeJS" /></a>   
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/react.svg?response-content-disposition=attachment%3Bfilename%3Dreact.svg" height="36" alt="React" /></a>  
 </p> 
 
 
