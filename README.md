@@ -14,12 +14,12 @@ Senior Software Engineer
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/swift.svg?response-content-disposition=attachment%3Bfilename%3Dswift.svg" height="36" alt="Swift" /> 
 <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=ZS86z3goveDT&format=gif&name=icons8-apple-logo.gif" height="36" alt="iOS" />  
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/firebase.svg?response-content-disposition=attachment%3Bfilename%3Dfirebase.svg" height="36" alt="Firebase" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=tGvHBPJaKqEd&format=gif&name=icons8-javascript.gif" height="36" alt="JavaScript" /></a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/typescript-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtypescript-icon.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtailwindcss-icon.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://reactnative.dev" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=YYYhFVbH4vFv&format=gif&name=icons8-react-native.gif" height="36" alt="React Native" /> 
-<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/aws-amplify.svg?response-content-disposition=attachment%3Bfilename%3Daws-amplify.svg" height="36" alt="Amplify" /></a> 
+<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/aws-amplify.svg?response-content-disposition=attachment%3Bfilename%3Daws-amplify.svg" height="36" alt="Amplify" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/firebase.svg?response-content-disposition=attachment%3Bfilename%3Dfirebase.svg" height="36" alt="Firebase" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/graphql.svg?response-content-disposition=attachment%3Bfilename%3Dgraphql.svg" height="36" alt="GraphQL" /></a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" height="36" alt="PostgreSQL" /></a> 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=WNoJgbzDr3i2&format=svg&size=40&name=icons8-express-js.svg" height="36" alt="Express" /></a> 
