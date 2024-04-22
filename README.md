@@ -28,15 +28,6 @@ Senior Software Engineer
 </p> 
 
 
-### Tools I use
-<p>
-<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=51974&format=svg&size=96&name=icons8-xcode.svg" height="36" alt="Xcode" /></a>
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=0OQR1FYCuA9f&format=svg&size=48&name=icons8-visual-studio-code-2019.svg" height="36" alt="VS Code" /></a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=20906&format=svg&size=48&name=icons8-git.svg" height="36" alt="Git" /></a>
-<a href="https://desktop.github.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=bVGqATNwfhYq&format=svg&size=48&name=icons8-github.svg" height="36" alt="GitHub Desktop" /></a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/postman.svg?response-content-disposition=attachment%3Bfilename%3Dpostman.svg" height="36" alt="Postman" /></a>
-</p>
-
 
 ### Socials  
 <p>
@@ -53,7 +44,6 @@ Senior Software Engineer
 ### My GitHub Stats
 <p>
 <a href="https://github.com/lalcastroantony" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalcastroantony&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/lalcastroantony"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lalcastroantony&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
 
 
