@@ -26,7 +26,7 @@ Senior Software Engineer
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtailwindcss-icon.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://reactnative.dev" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=YYYhFVbH4vFv&format=gif&name=icons8-react-native.gif" height="36" alt="React Native" />
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/react.svg?response-content-disposition=attachment%3Bfilename%3Dreact.svg" height="36" alt="React" /></a>
-<a href="https://vercel.com/frameworks/nextjs" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/nextjs-icon.svg?response-content-disposition=attachment%3Bfilename%3Dnextjs-icon.svg" height="36" alt="Next.js" /></a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/nextjs-icon.svg?response-content-disposition=attachment%3Bfilename%3Dnextjs-icon.svg" height="36" alt="Next.js" /></a>
 </p> 
 
 
