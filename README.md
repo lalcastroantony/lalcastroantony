@@ -38,11 +38,6 @@ Senior Software Engineer
 <a href="https://www.youtube.com/c/LalCastro" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=p4rU35mvmXMQ&format=gif&name=icons8-youtube-logo.gif" height="36" alt="Youtube" /></a>
 <a href="https://www.linkedin.com/in/lalcastro" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=TpMqKvVFD9pP&format=gif&name=icons8-linkedin-2.gif" height="36" alt="LinkedIn" /></a> 
 </p>
-  
 
-### My GitHub Stats
-<p>
-<a href="https://github.com/lalcastroantony" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalcastroantony&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
 
 
