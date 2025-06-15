@@ -14,6 +14,7 @@ Lead Software Engineer
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/swift.svg?response-content-disposition=attachment%3Bfilename%3Dswift.svg" height="36" alt="Swift" />
 <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?id=ZS86z3goveDT&format=gif&name=icons8-apple-logo.gif" height="36" alt="iOS" />
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/java.svg?response-content-disposition=attachment%3Bfilename%3Djava.svg" height="36" alt="Java" />
 <a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/spring-icon.svg?response-content-disposition=attachment%3Bfilename%3Dspring-icon.svg" height="36" alt="Spring Boot with Spring AI" /></a>
 <a href="http://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/mongodb-icon.svg?response-content-disposition=attachment%3Bfilename%3Dmongodb-icon.svg" height="36" alt="MongoDB" /></a>
